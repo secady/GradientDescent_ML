@@ -1,6 +1,6 @@
 # GradientDescent_ML
 This is one of the Machine Learning projects that I did during the Data Science bootcamp. 
-The objective of this project is to do a prediction on randomly generated data (assumed that there is lineal relation between the variable and the target data) using a simple Linear Regression model with four different approaches:
+The objective of this project is to do a prediction on randomly generated data (assumed that there is a linear relation between the variable and the target data) using a simple Linear Regression model with four different approaches:
 - using manual calculation 
 - using normal equation formula
 - using Python's Scikit-Learn library
