@@ -10,3 +10,5 @@ The above experiment demonstrates that:
 - The four approaches have a similar result. 
 - In the case of Gradient Descent, in order to get a minimum error (MSE or RMSE) as shown in the other approaches, we need to iterate up to 100,000 times with 0.001 learning rate.
 - The animated gif shows an illustration on how to reduce the prediction error using Gradient Descent. In this case, I did 100 iterations only.
+
+To see the complete code, please check out the project folder in this following link: https://drive.google.com/drive/folders/1vekhhRqxF3wJ9-ENw_Q6OEXAiYFjyrR_?usp=sharing 
